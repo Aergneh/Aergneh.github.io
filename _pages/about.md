@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Andrew Liu. Welcome to my personal website! I’m currently an independent researcher based in the Los Angeles Bay Area, specializing in LLM research.
+Hello, my name is Andrew Liu. Welcome to my personal website! I’m currently an independent researcher based in the San Francisco Bay Area, specializing in LLM research.
 
 I hold an MS degree from Carnegie Mellon University.
 
