@@ -11,4 +11,6 @@ Hello, my name is Andrew Liu. Welcome to my personal website! I’m currently an
 
 I hold an MS degree from Carnegie Mellon University.
 
+Currently I'm seeking a Research Assistant, PhD position, or LLM Engineer role.
+
 [Email](mailto:aergneh541@gmail.com) / [Github](https://github.com/Aergneh)
