@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website. I'm currently an independent researcher at Los Angel Bay Area, focusing on LLM Research.
-I obtained my MS degree from Carnegie Melon University.
+Welcome to my personal website! I’m an independent researcher based in the Los Angeles Bay Area, specializing in LLM research. 
 
-[Email](mailto:Dika@gmail.com) / [Github](https://github.com/Aergneh)
+I hold an MS degree from Carnegie Mellon University.
+
+[Email](mailto:aergneh541@gmail.com) / [Github](https://github.com/Aergneh)
